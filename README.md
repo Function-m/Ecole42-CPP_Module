@@ -9,31 +9,31 @@
 1. [과제 00 - 기본 개념](CPP Module 00/subject.pdf)
    - **내용:** 네임스페이스, 클래스, 멤버 함수, 입출력 스트림, 초기화 리스트, static, const 등 기본 문법 소개.
 
-2. [과제 01 - 메모리와 포인터](CPP Module 01/subject.pdf)
+2. [과제 01 - 메모리와 포인터](CPP-Module-01/subject.pdf)
    - **내용:** 메모리 할당, 멤버 포인터, 참조자, switch 문 사용법.
 
-3. [과제 02 - 연산자 오버로딩](CPP Module 02/subject.pdf)
+3. [과제 02 - 연산자 오버로딩](CPP-Module-02/subject.pdf)
    - **내용:** 연산자 오버로딩, 정석적 Canonical 클래스 구조 (정형화된 기본 클래스 패턴).
 
-4. [과제 03 - 상속](CPP Module 03/subject.pdf)
+4. [과제 03 - 상속](CPP-Module-03/subject.pdf)
    - **내용:** 단일 상속을 중심으로 한 객체지향 설계의 기본.
 
-5. [과제 04 - 추상화와 인터페이스](CPP Module 04/subject.pdf)  
+5. [과제 04 - 추상화와 인터페이스](CPP-Module-04/subject.pdf)  
    - **내용:** 추상 클래스와 서브타입 다형성, 인터페이스 설계.
 
-6. [과제 05 - 예외 처리](CPP Module 05/subject.pdf)
+6. [과제 05 - 예외 처리](CPP-Module-05/subject.pdf)
    - **내용:** 반복문 및 예외 처리 기본.
 
-7. [과제 06 - C++ 형변환](CPP Module 06/subject.pdf)
+7. [과제 06 - C++ 형변환](CPP-Module-06/subject.pdf)
    - **내용:** C++에서의 명시적 형변환(static_cast, dynamic_cast 등) 다루기.
 
-8. [과제 07 - 템플릿 기초](CPP Module 07/subject.pdf)  
+8. [과제 07 - 템플릿 기초](CPP-Module-07/subject.pdf)  
    - **내용:** 함수 및 클래스 템플릿 사용법.
 
-9. [과제 08 - 템플릿 컨테이너](CPP Module 08/subject.pdf)
+9. [과제 08 - 템플릿 컨테이너](CPP-Module-08/subject.pdf)
    - **내용:** 템플릿을 이용한 컨테이너, 반복자, 알고리즘.
 
-10. [과제 09 - 표준 템플릿 라이브러리(STL)](CPP Module 09/subject.pdf)
+10. [과제 09 - 표준 템플릿 라이브러리(STL)](CPP-Module-09/subject.pdf)
     - **내용:** STL의 기본 사용법과 구성 요소.
 
 ## 사용 방법

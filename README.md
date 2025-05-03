@@ -6,7 +6,7 @@
 
 ## 목차 및 요약
 
-1. [과제 00 - 기본 개념](CPP Module 00/subject.pdf)
+1. [과제 00 - 기본 개념](CPP-Module-00/subject.pdf)
    - **내용:** 네임스페이스, 클래스, 멤버 함수, 입출력 스트림, 초기화 리스트, static, const 등 기본 문법 소개.
 
 2. [과제 01 - 메모리와 포인터](CPP-Module-01/subject.pdf)
